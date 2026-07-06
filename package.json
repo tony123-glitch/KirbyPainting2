@@ -1,0 +1,13 @@
+{
+  "name": "kirby-painting-redesign",
+  "version": "1.0.0",
+  "description": "Kirby Painting, LLC Website Redesign",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
